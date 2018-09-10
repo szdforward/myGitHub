@@ -1,0 +1,6 @@
+
+*.prefs
+generatorSqlmapCustom/.classpath
+generatorSqlmapCustom/.project
+*.class
+*.jar
